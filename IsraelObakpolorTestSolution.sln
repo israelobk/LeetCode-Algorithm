@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsraelObakpolorTestSolution", "IsraelObakpolorTestSolution\IsraelObakpolorTestSolution.csproj", "{B99A96A6-FC5D-42AD-ABC1-349A7526BAF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsraelObakpolorTestSolution.Tests", "IsraelObakpolorTestSolution.Tests\IsraelObakpolorTestSolution.Tests.csproj", "{427CA13D-A521-4B11-AA07-6157E19AB760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B99A96A6-FC5D-42AD-ABC1-349A7526BAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99A96A6-FC5D-42AD-ABC1-349A7526BAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99A96A6-FC5D-42AD-ABC1-349A7526BAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99A96A6-FC5D-42AD-ABC1-349A7526BAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{427CA13D-A521-4B11-AA07-6157E19AB760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{427CA13D-A521-4B11-AA07-6157E19AB760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{427CA13D-A521-4B11-AA07-6157E19AB760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{427CA13D-A521-4B11-AA07-6157E19AB760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4475CF3-4E8B-47D6-873E-D5D5516A6FC4}
+	EndGlobalSection
+EndGlobal
